@@ -1,12 +1,16 @@
 grab_chrome_videos
 ========
 
-Grabs downloaded flash videos stored in Chrome's cache on Microsoft Windows systems.
+Grabs downloaded flash videos stored in Chrome's cache.
 
 Download
 --------
 
-For Windows XP/2003/Server 2008/Vista/7
+Windows XP/2003/Server 2008/Vista/7
+
+* [grab_chrome_videos](https://github.com/anirudhjoshi/grab_chrome_videos/zipball/r1)
+
+Ubuntu/Linux
 
 * [grab_chrome_videos](https://github.com/anirudhjoshi/grab_chrome_videos/zipball/r1)
 
