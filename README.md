@@ -1,7 +1,7 @@
 get_chrome_videos
 ========
 
-Grabs flash videos stored in Chrome's cache and puts it in your Videos folder (Windows).
+Gets downloaded flash videos stored in Chrome's cache
 
 Usage
 -----
