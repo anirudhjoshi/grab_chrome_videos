@@ -1,14 +1,14 @@
-get_chrome_videos
+grab_chrome_videos
 ========
 
-Gets downloaded flash videos stored in Chrome's cache
+Grabs downloaded flash videos stored in Chrome's cache
 
 Usage
 -----
 
 Double click on:
 	
-	get_chrome_videos.bat
+	grab_chrome_videos.bat
 
 What happens
 ------------
