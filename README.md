@@ -1,7 +1,7 @@
 get_chrome_videos
 ========
 
-Grabs any flash videos that are in Chrome's cache, and puts it in the Videos folder of your home directory (Windows), using [Hobocopy](https://github.com/candera/hobocopy).
+Grabs flash videos stored in Chrome's cache and puts it in your Videos folder (Windows).
 
 Usage
 -----
