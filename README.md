@@ -8,7 +8,7 @@ Download
 
 For Windows XP/2003/Server 2008/Vista/7
 
-	[grab_chrome_videos](https://github.com/anirudhjoshi/grab_chrome_videos/zipball/r1)
+* [grab_chrome_videos](https://github.com/anirudhjoshi/grab_chrome_videos/zipball/r1)
 
 Usage
 -----
