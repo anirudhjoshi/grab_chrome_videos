@@ -1,8 +1,6 @@
 get_chrome_videos
 ========
 
-#### Get downloaded flash videos from Chrome's cache ####
-
 Grabs any flash videos that are in Chrome's cache, and puts it in the Videos folder of your home directory (Windows), using [Hobocopy](https://github.com/candera/hobocopy).
 
 ### Usage ###
@@ -15,9 +13,10 @@ Double click on:
 
 The files will then copy accross to your Videos folder in your home directory (Windows). Check when the program closes itself.
 
-### References ###
+### Acknowledgements ###
 
-
+[Batch File to Correctly Determine Operating System Version](http://malektips.com/xp_dos_0025.html)
+[How To Check If Computer Is Running A 32 Bit or 64 Bit Operating System.](http://support.microsoft.com/kb/556009)
 
 ### Copyright ###
 
