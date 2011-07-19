@@ -2,10 +2,10 @@
 
 set sys=Operating system:
 set arch=Architecture:
-set copying=Copying flash video files from %USERPROFILE%\AppData\Local\Temp\ %USERPROFILE%\Videos\
-set tip=After this program closes go to this %USERPROFILE%\Videos\ folder, and view your files using VLC (http://www.videolan.org/vlc/)
-set copy=%USERPROFILE%\AppData\Local\Temp\ %USERPROFILE%\Videos\ fla*.tmp
-set pre=Hobocopy\Hobocopy-
+set copying=Copying flash video files from %USERPROFILE%\AppData\Local\Temp\ to videos\
+set tip=After the copying program closes go to the videos\ folder, and view your files using VLC (http://www.videolan.org/vlc/)
+set copy=%USERPROFILE%\AppData\Local\Temp\ videos\ fla*.tmp
+set pre=hobocopy\Hobocopy-
 set suf=-bit.exe
 
 ver | find "XP" > nul
@@ -64,3 +64,4 @@ goto exit
 echo Can't determine your OS/architecture.
 
 :exit
+pause

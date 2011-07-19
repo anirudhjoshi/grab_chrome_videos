@@ -15,9 +15,9 @@ What happens
 	
 [Hobocopy](https://github.com/candera/hobocopy) will ask for admin privileges.
 
-The files will then copy accross to your Videos folder in your home directory (Windows).
+The files will then copy accross to the empty videos\ folder that comes with this script.
 
-Check out your videos when the program closes itself with [VLC](http://www.videolan.org/vlc/)
+Check out your videos after the copying program closes itself with [VLC](http://www.videolan.org/vlc/)
 
 Acknowledgements
 ----------------
