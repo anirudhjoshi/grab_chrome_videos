@@ -9,14 +9,18 @@ Double click on:
 	
 	get_chrome_videos.bat
 
+### What happens ###	
+	
 [Hobocopy](https://github.com/candera/hobocopy) will ask for admin privileges.
 
-The files will then copy accross to your Videos folder in your home directory (Windows). Check when the program closes itself.
+The files will then copy accross to your Videos folder in your home directory (Windows).
+
+Check out your videos when the program closes itself with [VLC](http://www.videolan.org/vlc/)
 
 ### Acknowledgements ###
 
-[Batch File to Correctly Determine Operating System Version](http://malektips.com/xp_dos_0025.html)
-[How To Check If Computer Is Running A 32 Bit or 64 Bit Operating System.](http://support.microsoft.com/kb/556009)
+* [Batch File to Correctly Determine Operating System Version](http://malektips.com/xp_dos_0025.html)
+* [How To Check If Computer Is Running A 32 Bit or 64 Bit Operating System.](http://support.microsoft.com/kb/556009)
 
 ### Copyright ###
 
